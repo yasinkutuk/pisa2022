@@ -1,0 +1,97 @@
+﻿field_id,field_name,if_found_in_codebook,source,field_type
+CLSIZE,2015: Sınıf mevcudu; 2018: Sınıf mevcudu; 2022: Sınıf mevcudu (sınav dilindeki ders),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+CNT,Üç karakterli ülke kodu,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+CNTRYID,Ülke tanımlayıcısı,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+CNTSCHID,Uluslararası okul kimlik numarası,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+CREACTIV,2015: Ders dışı yaratıcı etkinlikler (toplam); 2018: Ders dışı yaratıcı etkinlikler (toplam); 2022: Ders dışı yaratıcı etkinlikler (3 etkinlik),doğru,"kod kitapları 2015, 2018, 2022",sıralı
+CYC,PISA değerlendirme döngüsü (2 rakam + değerlendirme türünü belirten 2 karakter: MS/FT),doğru,"kod kitapları 2015, 2018, 2022",kategorik
+EDUSHORT,Eğitim materyali eksikliği (WLE),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+PROATCE,2015: Tam sertifikalı öğretmenlerin toplam öğretmenlere oranına ilişkin endeks; 2018: Tam sertifikalı öğretmenlerin toplam öğretmenlere oranına ilişkin endeks; 2022: Tam sertifikalı öğretmenlerin toplam öğretmenlere oranı,doğru,"kod kitapları 2015, 2018, 2022",oran
+RATCMP1,2015: En yaygın sınıf düzeyinde öğrenci başına düşen kullanılabilir bilgisayar sayısı; 2018: En yaygın sınıf düzeyinde öğrenci başına düşen kullanılabilir bilgisayar sayısı; 2022: Bilgisayarların bulunabilirliği,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+RATCMP2,2015: Kullanılabilir bilgisayarlar içinde internete bağlı olanların oranı; 2018: Kullanılabilir bilgisayarlar içinde internete bağlı olanların oranı; 2022: İnternete bağlı bilgisayarlar,doğru,"kod kitapları 2015, 2018, 2022",oran
+SC001Q01TA,Okulunuzun bulunduğu yerleşim yerini aşağıdaki tanımlardan hangisi en iyi açıklar?,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC002Q01TA,2015: 1 Şubat 2014 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı; 2018: 1 Şubat 2018 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı; 2022: 1 Şubat 2021 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC002Q02TA,2015: 1 Şubat 2014 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı; 2018: 1 Şubat 2018 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı; 2022: 1 Şubat 2021 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC003Q01TA,Okulunuzda 15 yaşındakiler için ülkede en yaygın sınıf düzeyindeki sınav dilinde verilen derslerin ortalama sınıf mevcudu nedir?,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC004Q05NA,2015: Okuldaki toplam etkileşimli tahta sayısı; 2018: Okulda yaklaşık kaç etkileşimli tahta bulunmaktadır?; 2022: Okulda yaklaşık kaç etkileşimli tahta bulunmaktadır?,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC004Q06NA,2015: Okuldaki toplam veri projektörü sayısı; 2018: Okulda yaklaşık kaç veri projektörü bulunmaktadır?; 2022: Okulda yaklaşık kaç veri projektörü bulunmaktadır?,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC004Q07NA,2015: Okulda öğretmenlerin kullanımına sunulan internete bağlı bilgisayarların toplam sayısı; 2018: Okulda öğretmenlerin kullanımına sunulan internete bağlı yaklaşık kaç bilgisayar vardır?; 2022: Okulda öğretmenlerin kullanımına sunulan internete bağlı yaklaşık kaç masaüstü veya dizüstü bilgisayar vardır?,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC012Q04TA,2015: Okula öğrenci kabulünde özel bir programa gereksinim duyma veya ilgi gösterme; 2018: Okula öğrenci kabulünde özel bir programa gereksinim duyma veya ilgi gösterme; 2022: Öğrenci kabulünde özel bir programa gereksinim duyma veya ilgi gösterme ne sıklıkla dikkate alınır?,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC012Q05TA,2015: Okula öğrenci kabulünde mevcut veya eski öğrencilerin aile üyelerine öncelik verilmesi; 2018: Okula öğrenci kabulünde mevcut veya eski öğrencilerin aile üyelerine öncelik verilmesi; 2022: Öğrenci kabulünde mevcut veya eski öğrencilerin aile üyelerine öncelik verilmesi ne sıklıkla dikkate alınır?,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC012Q06TA,2015: Okula öğrenci kabulünde belirli bir bölgede ikamet etme; 2018: Okula öğrenci kabulünde belirli bir bölgede ikamet etme; 2022: Öğrenci kabulünde belirli bir bölgede ikamet etme ne sıklıkla dikkate alınır?,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC013Q01TA,"Okulunuz devlet okulu mu, özel okul mu?",doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC017Q01NA,Eğitim öğretimi engelleyen etken: Öğretmen eksikliği,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q02NA,Eğitim öğretimi engelleyen etken: Yetersiz veya yeterli niteliklere sahip olmayan öğretmenler,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q03NA,Eğitim öğretimi engelleyen etken: Destek personeli eksikliği,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q04NA,Eğitim öğretimi engelleyen etken: Yetersiz veya yeterli niteliklere sahip olmayan destek personeli,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q05NA,"Eğitim öğretimi engelleyen etken: Eğitim materyali eksikliği (ör. ders kitapları, bilişim donanımı, kütüphane veya laboratuvar malzemeleri)",doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q06NA,"Eğitim öğretimi engelleyen etken: Yetersiz veya düşük kaliteli eğitim materyali (ör. ders kitapları, bilişim donanımı, kütüphane veya laboratuvar malzemeleri)",doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q07NA,"Eğitim öğretimi engelleyen etken: Fiziksel altyapı eksikliği (ör. bina, okul alanı, ısıtma/soğutma, aydınlatma ve akustik sistemler)",doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC017Q08NA,"Eğitim öğretimi engelleyen etken: Yetersiz veya düşük kaliteli fiziksel altyapı (ör. bina, okul alanı, ısıtma/soğutma, aydınlatma ve akustik sistemler)",doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC018Q01TA01,Toplam öğretmen sayısı: tam zamanlı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC018Q01TA02,Toplam öğretmen sayısı: yarı zamanlı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC018Q02TA01,Yetkili kurum tarafından tam sertifikalı olarak kabul edilen öğretmenler: tam zamanlı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC018Q02TA02,Yetkili kurum tarafından tam sertifikalı olarak kabul edilen öğretmenler: yarı zamanlı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+SC025Q01NA,2015: Mesleki gelişim programına katılan okul öğretmenlerinin oranı: tüm öğretmenler; 2018: Son üç ayda mesleki gelişim programına katılan öğretmenlerin yüzdesi; 2022: Son üç ayda mesleki gelişim programına katılan öğretmenlerin yüzdesi: okuldaki tüm öğretmenler,doğru,"kod kitapları 2015, 2018, 2022",yüzde
+SC037Q01TA,Okulda kalite güvencesi uygulaması: İç değerlendirme / öz değerlendirme,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q02TA,Okulda kalite güvencesi uygulaması: Dış değerlendirme,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q03TA,Okulda kalite güvencesi uygulaması: Okulun müfredat profilinin ve eğitim hedeflerinin yazılı olarak belirlenmesi,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q04TA,Okulda kalite güvencesi uygulaması: Öğrenci performans standartlarının yazılı olarak belirlenmesi,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q05NA,Okulda kalite güvencesi uygulaması: Öğretmen veya öğrenci devamı ve mesleki gelişim gibi verilerin sistematik kaydı,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q06NA,Okulda kalite güvencesi uygulaması: Öğrenci sınav sonuçlarının ve mezuniyet oranlarının sistematik kaydı,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q07TA,"Okulda kalite güvencesi uygulaması: Öğrencilerden dersler, öğretmenler veya kaynaklar hakkında yazılı geri bildirim alınması",doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q08TA,Okulda kalite güvencesi uygulaması: Öğretmenlere mentorluk yapılması,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC037Q09TA,Okulda kalite güvencesi uygulaması: Okulu geliştirmek amacıyla bir veya daha fazla uzmanla en az altı ay boyunca düzenli danışma,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC042Q01TA,15 yaşındakiler için ülkede en yaygın sınıf düzeyinde öğrencilerin yeteneklerine göre farklı sınıflara ayrılması,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC042Q02TA,15 yaşındakiler için ülkede en yaygın sınıf düzeyinde öğrencilerin aynı sınıf içinde yeteneklerine göre gruplandırılması,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q01TA,"Bu eğitim yılında okulun sunduğu etkinlik: Bando, orkestra veya koro",doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q02TA,Bu eğitim yılında okulun sunduğu etkinlik: Okul tiyatrosu veya müzikali,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q03TA,"Bu eğitim yılında okulun sunduğu etkinlik: Okul yıllığı, gazetesi veya dergisi",doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q04TA,Bu eğitim yılında okulun sunduğu etkinlik: Gönüllülük veya topluma hizmet etkinlikleri,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q09TA,Bu eğitim yılında okulun sunduğu etkinlik: Sanat kulübü veya sanat etkinlikleri,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC053Q10TA,Bu eğitim yılında okulun sunduğu etkinlik: Spor takımı veya spor etkinlikleri,doğru,"kod kitapları 2015, 2018, 2022",kategorik
+SC061Q01TA,Öğrenmeyi engelleyen etken: Öğrencilerin okula devamsızlığı,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q02TA,Öğrenmeyi engelleyen etken: Öğrencilerin dersleri kaçırması,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q03TA,Öğrenmeyi engelleyen etken: Öğrencilerin öğretmenlere saygı göstermemesi,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q04TA,Öğrenmeyi engelleyen etken: Öğrencilerin alkol veya yasa dışı madde kullanımı,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q05TA,Öğrenmeyi engelleyen etken: Öğrencilerin diğer öğrencileri tehdit etmesi veya zorbalık yapması,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q06TA,Öğrenmeyi engelleyen etken: Öğretmenlerin öğrencilerin bireysel gereksinimlerini karşılamaması,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q07TA,Öğrenmeyi engelleyen etken: Öğretmenlerin devamsızlığı,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q08TA,Öğrenmeyi engelleyen etken: Personelin değişime direnmesi,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q09TA,Öğrenmeyi engelleyen etken: Öğretmenlerin öğrencilere aşırı katı davranması,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC061Q10TA,Öğrenmeyi engelleyen etken: Öğretmenlerin derslere yeterince hazırlanmaması,doğru,"kod kitapları 2015, 2018, 2022",sıralı
+SC064Q01TA,2015: Geçen eğitim yılında kendi girişimleriyle okul etkinliklerine katılan velilerin oranı; 2018: Kendi girişimleriyle çocuklarının gelişimini bir öğretmenle görüşen velilerin oranı; 2022: Kendi girişimleriyle çocuklarının gelişimini bir öğretmenle görüşen veli veya vasilerin oranı,doğru,"kod kitapları 2015, 2018, 2022",yüzde
+SC064Q02TA,2015: Geçen eğitim yılında öğretmenlerin girişimiyle okul etkinliklerine katılan velilerin oranı; 2018: Çocuklarının bir öğretmeninin girişimiyle çocuklarının gelişimini görüşen velilerin oranı; 2022: Çocuklarının bir öğretmeninin girişimiyle çocuklarının gelişimini görüşen veli veya vasilerin oranı,doğru,"kod kitapları 2015, 2018, 2022",yüzde
+SC064Q03TA,2015: Geçen eğitim yılında yerel okul yönetimine katılan velilerin oranı; 2018: Yerel okul yönetimine (ör. veli konseyi veya okul yönetim kurulu) katılan velilerin oranı; 2022: Yerel okul yönetimine (ör. veli konseyi veya okul yönetim kurulu) katılan veli veya vasilerin oranı,doğru,"kod kitapları 2015, 2018, 2022",yüzde
+SC064Q04NA,"2015: Geçen eğitim yılında fiziksel işlerde veya ders dışı etkinliklerde gönüllü olan velilerin oranı; 2018: Fiziksel işlerde veya ders dışı etkinliklerde gönüllü olan velilerin oranı; 2022: Fiziksel işlerde veya ders dışı etkinliklerde (ör. bina bakımı, marangozluk, bahçe işleri, okul tiyatrosu, spor veya gezi) gönüllü olan veli veya vasilerin oranı",doğru,"kod kitapları 2015, 2018, 2022",yüzde
+SCHSIZE,Okul büyüklüğü (toplam),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+STAFFSHORT,Eğitim personeli eksikliği (WLE),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+STRATIO,Öğrenci/öğretmen oranı,doğru,"kod kitapları 2015, 2018, 2022",yüzde
+STUBEHA,2015: Öğrenmeyi engelleyen öğrenci davranışları (WLE); 2018: Öğrenmeyi engelleyen öğrenci davranışları (WLE); 2022: Okul iklimini etkileyen öğrenci kaynaklı etkenler (WLE),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+TEACHBEHA,2015: Öğrenmeyi engelleyen öğretmen davranışları (WLE); 2018: Öğrenmeyi engelleyen öğretmen davranışları (WLE); 2022: Okul iklimini etkileyen öğretmen kaynaklı etkenler (WLE),doğru,"kod kitapları 2015, 2018, 2022",sayısal
+TOTAT,Okuldaki toplam öğretmen sayısı,doğru,"kod kitapları 2015, 2018, 2022",sayısal
+math,Kod kitabında bulunamadı: matematik,yanlış,türetilmiş,sayısal
+read,Kod kitabında bulunamadı: okuma,yanlış,türetilmiş,sayısal
+sci,Kod kitabında bulunamadı: fen bilimleri,yanlış,türetilmiş,sayısal
+year,Kod kitabında bulunamadı: yıl,yanlış,türetilmiş,kategorik
+_TAPARTTIME,Toplam öğretmen sayısı: yarı zamanlı,yanlış,Türetilmiş,sayısal
+_BUCK_SC002Q01TA,ARALIKLARA AYRILMIŞ: 2015: 1 Şubat 2014 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı; 2018: 1 Şubat 2018 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı; 2022: 1 Şubat 2021 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: erkek öğrenci sayısı,yanlış,Türetilmiş,sıralı
+_BUCK_SC002Q02TA,ARALIKLARA AYRILMIŞ: 2015: 1 Şubat 2014 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı; 2018: 1 Şubat 2018 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı; 2022: 1 Şubat 2021 itibarıyla okuldaki toplam kayıtlı öğrenci sayısı: kız öğrenci sayısı,yanlış,Türetilmiş,sıralı
+_BUCK_SCHSIZE,ARALIKLARA AYRILMIŞ: Okul büyüklüğü (toplam),yanlış,Türetilmiş,sıralı
+_BUCK_SC018Q01TA01,ARALIKLARA AYRILMIŞ: Toplam öğretmen sayısı: tam zamanlı,yanlış,Türetilmiş,sıralı
+_BUCK_TOTAT,ARALIKLARA AYRILMIŞ: Okuldaki toplam öğretmen sayısı,yanlış,Türetilmiş,sıralı
+_BUCK_SC004Q05NA,ARALIKLARA AYRILMIŞ: 2015: Okuldaki toplam etkileşimli tahta sayısı; 2018: Okulda yaklaşık kaç etkileşimli tahta bulunmaktadır?; 2022: Okulda yaklaşık kaç etkileşimli tahta bulunmaktadır?,yanlış,Türetilmiş,sıralı
+_BUCK_SC004Q06NA,ARALIKLARA AYRILMIŞ: 2015: Okuldaki toplam veri projektörü sayısı; 2018: Okulda yaklaşık kaç veri projektörü bulunmaktadır?; 2022: Okulda yaklaşık kaç veri projektörü bulunmaktadır?,yanlış,Türetilmiş,sıralı
+_BUCK_SC004Q07NA,ARALIKLARA AYRILMIŞ: 2015: Okulda öğretmenlerin kullanımına sunulan internete bağlı bilgisayarların toplam sayısı; 2018: Okulda öğretmenlerin kullanımına sunulan internete bağlı yaklaşık kaç bilgisayar vardır?; 2022: Okulda öğretmenlerin kullanımına sunulan internete bağlı yaklaşık kaç masaüstü veya dizüstü bilgisayar vardır?,yanlış,Türetilmiş,sıralı
+_BUCK_RATCMP1,ARALIKLARA AYRILMIŞ: 2015: En yaygın sınıf düzeyinde öğrenci başına düşen kullanılabilir bilgisayar sayısı; 2018: En yaygın sınıf düzeyinde öğrenci başına düşen kullanılabilir bilgisayar sayısı; 2022: Bilgisayarların bulunabilirliği,yanlış,Türetilmiş,sıralı
+_SPC,Bilgisayar başına düşen öğrenci sayısı,yanlış,Türetilmiş,sayısal
+_SPWB,Etkileşimli tahta başına düşen öğrenci sayısı,yanlış,Türetilmiş,sayısal
+_SPDP,Veri projektörü başına düşen öğrenci sayısı,yanlış,Türetilmiş,sayısal
+_TSSI,Öğretmen ve personel eksikliği endeksi,yanlış,Türetilmiş,sayısal
+_IIH,Öğretimi engelleyen etkenler endeksi,yanlış,Türetilmiş,sayısal
+_PEI,Veli katılımı endeksi,yanlış,Türetilmiş,sayısal
+_SQAI,Okulda kalite güvencesi endeksi,yanlış,Türetilmiş,sayısal
+_SBPI,Öğrenci davranış sorunları endeksi,yanlış,Türetilmiş,sayısal
+_TBPI,Öğretmen davranış sorunları endeksi,yanlış,Türetilmiş,sayısal
+_TAC,Teknolojiye erişim bileşik göstergesi,yanlış,Türetilmiş,sayısal
+_PRI,Fiziksel kaynaklar endeksi,yanlış,Türetilmiş,sayısal
